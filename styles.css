@@ -180,42 +180,43 @@ h3 {
 .hero-card {
   display: grid;
   grid-column: 1 / -1;
-  grid-template-columns: minmax(300px, 0.65fr) minmax(360px, 1fr);
-  align-content: stretch;
-  align-items: start;
-  gap: clamp(18px, 4vw, 34px);
+  align-content: start;
+  gap: 16px;
 }
 
 .hero-card .kicker {
-  grid-column: 1;
+  grid-column: auto;
 }
 
 .hero-card h2 {
-  grid-column: 1;
-  max-width: 11ch;
-  font-size: clamp(40px, 5.4vw, 76px);
+  grid-column: auto;
+  max-width: 15ch;
+  margin-top: 10px;
+  font-size: clamp(48px, 7vw, 92px);
   overflow-wrap: normal;
   word-break: normal;
 }
 
 .hero-card time {
-  grid-column: 1;
+  grid-column: auto;
 }
 
 .hero-card p {
-  grid-column: 2;
-  grid-row: 1 / span 4;
-  align-self: center;
-  max-width: 62ch;
+  grid-column: auto;
+  grid-row: auto;
+  align-self: auto;
+  max-width: 72ch;
+  margin-top: 14px;
   color: var(--muted);
   font-size: clamp(17px, 1.6vw, 20px);
   line-height: 1.5;
 }
 
 .hero-card .button {
-  grid-column: 2;
-  justify-self: end;
-  align-self: end;
+  grid-column: auto;
+  justify-self: start;
+  align-self: auto;
+  margin-top: 8px;
 }
 
 .stat-card {
@@ -463,21 +464,13 @@ ul {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .hero-card {
-    grid-template-columns: 1fr;
-  }
-
   .hero-card .kicker,
   .hero-card h2,
   .hero-card time,
   .hero-card p,
   .hero-card .button {
-    grid-column: 1;
+    grid-column: auto;
     grid-row: auto;
-  }
-
-  .hero-card .button {
-    justify-self: start;
   }
 }
 
