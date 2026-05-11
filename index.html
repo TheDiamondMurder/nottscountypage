@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Notts County | jakublabs.xyz</title>
+    <link rel="stylesheet" href="styles.css?v=1" />
+  </head>
+  <body data-page="home">
+    <header class="site-header">
+      <a class="brand" href="index.html"><span class="brand-mark"></span><span>Notts County</span></a>
+      <nav class="nav-links">
+        <a href="index.html" aria-current="page">Home</a>
+        <a href="matches.html">Matches</a>
+        <a href="predictions.html">Predictions</a>
+        <a href="ratings.html">Ratings</a>
+      </nav>
+    </header>
+
+    <main class="app">
+      <section class="hero">
+        <p class="kicker">fan dashboard</p>
+        <h1>Notts County</h1>
+        <p class="lede">match reactions, predictions, player ratings, talking points, and season mood in one place</p>
+      </section>
+
+      <section class="dashboard-grid">
+        <article class="panel hero-card" id="latest-match"></article>
+        <article class="panel stat-card">
+          <p class="kicker">season pulse</p>
+          <strong id="season-mood">--</strong>
+          <span id="season-note">loading...</span>
+        </article>
+        <article class="panel stat-card">
+          <p class="kicker">prediction accuracy</p>
+          <strong id="prediction-accuracy">--%</strong>
+          <span>based on completed predictions</span>
+        </article>
+        <article class="panel stat-card">
+          <p class="kicker">top rated</p>
+          <strong id="top-player">--</strong>
+          <span id="top-player-note">average rating</span>
+        </article>
+      </section>
+
+      <section class="section-block">
+        <div class="section-heading">
+          <p class="kicker">recent reactions</p>
+          <h2>match diary</h2>
+        </div>
+        <div class="card-grid" id="recent-matches"></div>
+      </section>
+
+      <section class="section-block two-col">
+        <div class="panel">
+          <p class="kicker">talking points</p>
+          <div class="talking-points" id="talking-points"></div>
+        </div>
+        <div class="panel">
+          <p class="kicker">next up</p>
+          <div id="next-match"></div>
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js?v=1"></script>
+  </body>
+</html>

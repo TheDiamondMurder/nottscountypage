@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ratings | Notts County</title>
+    <link rel="stylesheet" href="styles.css?v=1" />
+  </head>
+  <body data-page="ratings">
+    <header class="site-header">
+      <a class="brand" href="index.html"><span class="brand-mark"></span><span>Notts County</span></a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="matches.html">Matches</a>
+        <a href="predictions.html">Predictions</a>
+        <a href="ratings.html" aria-current="page">Ratings</a>
+      </nav>
+    </header>
+
+    <main class="app">
+      <section class="hero compact">
+        <p class="kicker">player ratings</p>
+        <h1>Ratings</h1>
+        <p class="lede">match ratings, player notes, average scores, and man of the match counts</p>
+      </section>
+
+      <section class="ratings-table panel">
+        <div class="table-heading">
+          <p class="kicker">leaderboard</p>
+          <h2>season averages</h2>
+        </div>
+        <div id="ratings-leaderboard"></div>
+      </section>
+
+      <section class="section-block">
+        <div class="section-heading">
+          <p class="kicker">by match</p>
+          <h2>rating cards</h2>
+        </div>
+        <div class="card-grid" id="ratings-by-match"></div>
+      </section>
+    </main>
+
+    <script src="script.js?v=1"></script>
+  </body>
+</html>

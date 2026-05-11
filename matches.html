@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Matches | Notts County</title>
+    <link rel="stylesheet" href="styles.css?v=1" />
+  </head>
+  <body data-page="matches">
+    <header class="site-header">
+      <a class="brand" href="index.html"><span class="brand-mark"></span><span>Notts County</span></a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="matches.html" aria-current="page">Matches</a>
+        <a href="predictions.html">Predictions</a>
+        <a href="ratings.html">Ratings</a>
+      </nav>
+    </header>
+
+    <main class="app">
+      <section class="hero compact">
+        <p class="kicker">match reactions</p>
+        <h1>Matches</h1>
+        <p class="lede">every reaction gets its own page so it can be shared properly</p>
+      </section>
+
+      <section class="toolbar">
+        <button class="filter active" type="button" data-filter="all">All</button>
+        <button class="filter" type="button" data-filter="reaction">Reactions</button>
+        <button class="filter" type="button" data-filter="upcoming">Upcoming</button>
+      </section>
+
+      <section class="card-grid" id="matches-list"></section>
+    </main>
+
+    <script src="script.js?v=1"></script>
+  </body>
+</html>

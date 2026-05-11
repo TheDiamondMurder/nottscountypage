@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Predictions | Notts County</title>
+    <link rel="stylesheet" href="styles.css?v=1" />
+  </head>
+  <body data-page="predictions">
+    <header class="site-header">
+      <a class="brand" href="index.html"><span class="brand-mark"></span><span>Notts County</span></a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="matches.html">Matches</a>
+        <a href="predictions.html" aria-current="page">Predictions</a>
+        <a href="ratings.html">Ratings</a>
+      </nav>
+    </header>
+
+    <main class="app">
+      <section class="hero compact">
+        <p class="kicker">crystal ball</p>
+        <h1>Predictions</h1>
+        <p class="lede">score predictions, confidence, danger men, and the post-match accuracy check</p>
+      </section>
+
+      <section class="dashboard-grid slim">
+        <article class="panel stat-card">
+          <p class="kicker">accuracy</p>
+          <strong id="prediction-page-accuracy">--%</strong>
+          <span>completed predictions</span>
+        </article>
+        <article class="panel stat-card">
+          <p class="kicker">boldness</p>
+          <strong id="prediction-boldness">--</strong>
+          <span>average confidence</span>
+        </article>
+      </section>
+
+      <section class="card-grid" id="predictions-list"></section>
+    </main>
+
+    <script src="script.js?v=1"></script>
+  </body>
+</html>
