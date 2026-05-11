@@ -112,6 +112,12 @@
           "rating": 6.5,
           "note": "Substitute",
           "motm": false
+        },
+        {
+          "player": "Alassana Jatta",
+          "rating": 6.5,
+          "note": "",
+          "motm": false
         }
       ]
     },
@@ -136,6 +142,130 @@
         "result": "pending"
       },
       "ratings": []
+    },
+    {
+      "id": "notts-vs-opponent-1778461830954",
+      "date": "2026-05-02T14:00:00.000Z",
+      "competition": "League Two",
+      "venue": "Meadow Lane",
+      "home": "Notts County",
+      "away": "Bristol Rovers",
+      "score": "1-1",
+      "status": "played",
+      "mood": "Disappointment ",
+      "headline": "Not what we deserved after 46 games",
+      "reaction": "Notts County stalemated at a match against Bristol Rovers, the match ended level at 1-1 and our hopes of Automatic Promotions were washed away as Cambridge did all they needed to do.",
+      "highlights": [
+        "We got the first goal",
+        "They scored too"
+      ],
+      "talkingPoints": [
+        "Jatta is inconsistent "
+      ],
+      "prediction": {
+        "score": "2-0",
+        "confidence": 75,
+        "note": "",
+        "result": "wrong"
+      },
+      "ratings": [
+        {
+          "player": "James Belshaw",
+          "rating": 6.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Lucas Ness",
+          "rating": 6.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Rod McDonald",
+          "rating": 6.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jacob Bedeau",
+          "rating": 6.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Nick Tsaroulla",
+          "rating": 7.5,
+          "note": "",
+          "motm": true
+        },
+        {
+          "player": "Ollie Norburn",
+          "rating": 6,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Tom Iorpenda",
+          "rating": 6.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jodi Jones",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jayden Luker",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Conor Grant",
+          "rating": 5.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Alassana Jatta",
+          "rating": 5.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Matt Palmer",
+          "rating": 6,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Scott Robertson",
+          "rating": 5.5,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Tyrese Hall",
+          "rating": 6.5,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Lee Ndlovu",
+          "rating": 5.5,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Matt Dennis",
+          "rating": 5.5,
+          "note": "Substitute",
+          "motm": false
+        }
+      ]
     }
   ]
 }
