@@ -180,28 +180,42 @@ h3 {
 .hero-card {
   display: grid;
   grid-column: 1 / -1;
-  grid-template-columns: minmax(260px, 0.62fr) minmax(360px, 1fr) auto;
-  align-content: start;
-  align-items: end;
+  grid-template-columns: minmax(300px, 0.65fr) minmax(360px, 1fr);
+  align-content: stretch;
+  align-items: start;
   gap: clamp(18px, 4vw, 34px);
 }
 
+.hero-card .kicker {
+  grid-column: 1;
+}
+
 .hero-card h2 {
-  max-width: 13ch;
-  font-size: clamp(38px, 5vw, 72px);
+  grid-column: 1;
+  max-width: 11ch;
+  font-size: clamp(40px, 5.4vw, 76px);
   overflow-wrap: normal;
   word-break: normal;
 }
 
+.hero-card time {
+  grid-column: 1;
+}
+
 .hero-card p {
+  grid-column: 2;
+  grid-row: 1 / span 4;
+  align-self: center;
   max-width: 62ch;
   color: var(--muted);
-  font-size: 17px;
-  line-height: 1.45;
+  font-size: clamp(17px, 1.6vw, 20px);
+  line-height: 1.5;
 }
 
 .hero-card .button {
+  grid-column: 2;
   justify-self: end;
+  align-self: end;
 }
 
 .stat-card {
@@ -451,6 +465,15 @@ ul {
 
   .hero-card {
     grid-template-columns: 1fr;
+  }
+
+  .hero-card .kicker,
+  .hero-card h2,
+  .hero-card time,
+  .hero-card p,
+  .hero-card .button {
+    grid-column: 1;
+    grid-row: auto;
   }
 
   .hero-card .button {
