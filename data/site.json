@@ -1,108 +1,138 @@
 {
   "season": {
     "label": "2025/26",
-    "mood": "cautiously delusional",
-    "note": "good signs, dangerous optimism, still Notts enough to hurt"
+    "mood": "Hopeful for Wembley",
+    "note": "All to play for"
   },
   "talkingPoints": [
-    "set pieces need to keep being a weapon",
-    "midfield control decides everything",
-    "if the press works early, the whole match feels different",
-    "clean sheets are the new currency"
+    "Not clinical enough finishing",
+    "Good defending at times",
+    "Paterson is the goat"
   ],
   "matches": [
     {
-      "id": "notts-2-1-riverside",
-      "date": "2026-05-08T19:45:00+01:00",
-      "competition": "League Two",
-      "venue": "Meadow Lane",
-      "home": "Notts County",
-      "away": "Riverside FC",
-      "score": "2-1",
-      "status": "played",
-      "mood": "relieved",
-      "headline": "A proper nervy Meadow Lane win",
-      "reaction": "Not perfect, but exactly the kind of match you need to survive if you want the season to mean anything. First half had proper control, second half got way too dramatic, but the limbs at full-time made it worth it.",
-      "highlights": [
-        "early goal settled everyone down",
-        "wing play looked dangerous all night",
-        "last ten minutes were pure stress"
-      ],
-      "talkingPoints": [
-        "game management still needs work",
-        "the full-backs created most of the threat",
-        "keeper made the save that changed the ending"
-      ],
-      "prediction": {
-        "score": "2-0",
-        "confidence": 72,
-        "note": "expected more control than we actually got",
-        "result": "close"
-      },
-      "ratings": [
-        { "player": "Goalkeeper", "rating": 8.2, "note": "huge late save", "motm": true },
-        { "player": "Right Back", "rating": 7.5, "note": "constant outlet" },
-        { "player": "Centre Mid", "rating": 7.8, "note": "kept the tempo alive" },
-        { "player": "Striker", "rating": 7.4, "note": "worked hard and got the goal" }
-      ]
-    },
-    {
-      "id": "notts-0-0-harbour",
-      "date": "2026-05-01T15:00:00+01:00",
-      "competition": "League Two",
-      "venue": "Away",
-      "home": "Harbour Town",
+      "id": "notts-vs-opponent-1778460059292",
+      "date": "2026-05-10T17:00:00.000Z",
+      "competition": "League Two Playoffs",
+      "venue": "SMH Group Stadium",
+      "home": "Chesterfield",
       "away": "Notts County",
-      "score": "0-0",
+      "score": "0-1",
       "status": "played",
-      "mood": "flat",
-      "headline": "A point, technically",
-      "reaction": "The kind of match that makes highlights editors question their life choices. Defensive shape was good, but the final third had absolutely no spark. Useful point, boring memory.",
+      "mood": "WARRA WIN",
+      "headline": "Notts County skim a win away at Chestefield",
+      "reaction": "Notts County narrowly produce a win against Chesterfield in the first leg of the League Two Playoff Semi Final.\n\nWe played really well in defence, James Belshaw played a good role in saving that free kick. We were lucky that they missed their penalty as this game could have ended differently. I couldn't get tickets for this match as they sold out too quickly, which shows that next season there is room to improve with loyalty points. I spent the time at the nest watching it with all the others and it was great.\n\nDobra is a wanker lmaooo",
       "highlights": [
-        "defence looked organised",
-        "midfield duels were strong",
-        "final ball was tragic"
+        "Chesterfield miss a penalty",
+        "Luker hits into the net rebounding off the keeper",
+        "James Belshaw makes a crucial direct free kick save."
       ],
-      "talkingPoints": [
-        "needed more runners beyond the striker",
-        "a clean sheet away from home is still valuable",
-        "subs arrived too late"
-      ],
+      "talkingPoints": [],
       "prediction": {
-        "score": "1-1",
-        "confidence": 55,
-        "note": "expected both teams to score",
+        "score": "4-0",
+        "confidence": 75,
+        "note": "",
         "result": "wrong"
       },
       "ratings": [
-        { "player": "Goalkeeper", "rating": 7.1, "note": "calm and clean" },
-        { "player": "Centre Back", "rating": 8.0, "note": "won everything", "motm": true },
-        { "player": "Centre Mid", "rating": 6.8, "note": "busy but safe" },
-        { "player": "Striker", "rating": 5.9, "note": "isolated" }
+        {
+          "player": "James Belshaw",
+          "rating": 7.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Lucas Ness",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Rod McDonald",
+          "rating": 7.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jacob Bedeau",
+          "rating": 6.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Nick Tsaroulla",
+          "rating": 7.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Ollie Norburn",
+          "rating": 6.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Tom Iorpenda",
+          "rating": 8,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jodi Jones",
+          "rating": 7.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Scott Robertson",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jayden Luker",
+          "rating": 8,
+          "note": "",
+          "motm": true
+        },
+        {
+          "player": "Conor Grant",
+          "rating": 6,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Maz Kouhyar",
+          "rating": 7,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Lee Ndlovu",
+          "rating": 6.5,
+          "note": "Substitute",
+          "motm": false
+        }
       ]
     },
     {
-      "id": "notts-vs-oldforge-preview",
-      "date": "2026-05-15T15:00:00+01:00",
-      "competition": "League Two",
+      "id": "notts-vs-opponent-1778460491996",
+      "date": "2026-05-15T00:48:00.000Z",
+      "competition": "League Two Playoffs",
       "venue": "Meadow Lane",
       "home": "Notts County",
-      "away": "Oldforge Albion",
+      "away": "Chesterfield",
       "score": null,
       "status": "upcoming",
       "mood": "hopeful",
-      "headline": "Chance to make Meadow Lane loud again",
+      "headline": "New match",
       "reaction": "",
       "highlights": [],
-      "talkingPoints": [
-        "start quickly and make them chase",
-        "avoid cheap fouls around the box",
-        "first goal feels massive"
-      ],
+      "talkingPoints": [],
       "prediction": {
-        "score": "3-1",
-        "confidence": 64,
-        "note": "reckless optimism has entered the building",
+        "score": "2-1",
+        "confidence": 50,
+        "note": "We can hurt them, but I think Chesterfield are going to go big and try respond. We are the hunted, they are the hunters, meaning its ours to lose. We have to lock in and hopefully win this game, draw at the worst.",
         "result": "pending"
       },
       "ratings": []
