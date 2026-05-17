@@ -1,8 +1,8 @@
 {
   "season": {
     "label": "2025/26",
-    "mood": "Hopeful for Wembley",
-    "note": "All to play for"
+    "mood": "QUE SERA SERA",
+    "note": "WERE GOING TO WEMBLEY"
   },
   "talkingPoints": [
     "Not clinical enough finishing",
@@ -128,20 +128,121 @@
       "venue": "Meadow Lane",
       "home": "Notts County",
       "away": "Chesterfield",
-      "score": null,
-      "status": "upcoming",
-      "mood": "hopeful",
-      "headline": "New match",
-      "reaction": "",
-      "highlights": [],
-      "talkingPoints": [],
+      "score": "0-0 (1-0)",
+      "status": "played",
+      "mood": "WEMBELYYYYY",
+      "headline": "WE'RE GOING TO WEMBLEY",
+      "reaction": "QUE SERA SERA, WHATEVER WILL BE WILL BE, WE'RE GOING TO WEMBLEY. QUE SERA SERA",
+      "highlights": [
+        "James Belshaw UNREAL save",
+        "Lucas Ness is a brick wall",
+        "We're going to Wembley",
+        "SHIT ON THE SPIREITES"
+      ],
+      "talkingPoints": [
+        "Build Ness a Statue",
+        "Build Belshaw a Statue",
+        "Build Norburn a Statue",
+        "Wembley"
+      ],
       "prediction": {
         "score": "2-1",
         "confidence": 50,
         "note": "We can hurt them, but I think Chesterfield are going to go big and try respond. We are the hunted, they are the hunters, meaning its ours to lose. We have to lock in and hopefully win this game, draw at the worst.",
-        "result": "pending"
+        "result": "close"
       },
-      "ratings": []
+      "ratings": [
+        {
+          "player": "James Belshaw",
+          "rating": 8,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Lucas Ness",
+          "rating": 9,
+          "note": "",
+          "motm": true
+        },
+        {
+          "player": "Rod McDonald",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jacob Bedeau",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Nick Tsaroulla",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Ollie Norburn",
+          "rating": 8,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Scott Robertson",
+          "rating": 7.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jodi Jones",
+          "rating": 8,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Tom Iorpenda",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jayden Luker",
+          "rating": 6.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Alassana Jatta",
+          "rating": 6.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Maz Kouhyar",
+          "rating": 6,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Lee Ndlovu",
+          "rating": 6.5,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Conor Grant",
+          "rating": 6,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Matt Palmer",
+          "rating": 6.5,
+          "note": "Substitute",
+          "motm": false
+        }
+      ]
     },
     {
       "id": "notts-vs-opponent-1778461830954",
@@ -266,6 +367,28 @@
           "motm": false
         }
       ]
+    },
+    {
+      "id": "notts-vs-opponent-1779042661199",
+      "date": "2026-05-25T14:00:00.000Z",
+      "competition": "League Two Playoff Final",
+      "venue": "Wembley Stadium",
+      "home": "Notts County",
+      "away": "Salford",
+      "score": null,
+      "status": "upcoming",
+      "mood": "big game",
+      "headline": "Massive game",
+      "reaction": "",
+      "highlights": [],
+      "talkingPoints": [],
+      "prediction": {
+        "score": "2-1",
+        "confidence": 20,
+        "note": "I just hope win but Idk Salford is a really good team.",
+        "result": "pending"
+      },
+      "ratings": []
     }
   ]
 }
