@@ -1,13 +1,14 @@
 {
   "season": {
     "label": "2025/26",
-    "mood": "QUE SERA SERA",
-    "note": "WERE GOING TO WEMBLEY"
+    "mood": "UP THE FOOTBALL LEAGUE WE GO",
+    "note": "LEAGUE ONE BOUND"
   },
   "talkingPoints": [
     "Not clinical enough finishing",
     "Good defending at times",
-    "Paterson is the goat"
+    "Paterson is the goat",
+    "fuck off we're going to league one"
   ],
   "matches": [
     {
@@ -375,20 +376,127 @@
       "venue": "Wembley Stadium",
       "home": "Notts County",
       "away": "Salford",
-      "score": null,
-      "status": "upcoming",
-      "mood": "big game",
+      "score": "3-0",
+      "status": "played",
+      "mood": "WE'RE GOING UP",
       "headline": "Massive game",
-      "reaction": "",
-      "highlights": [],
-      "talkingPoints": [],
+      "reaction": "OH MY WORD WERE ACTUALLY DOING IT WEVE DONE IT WERE GOING TO LEAGUE ONE. WE'RE ON OUR WAYYYYYYY ON OUR WAYYY, TO THE LEAGUE ONE, WE'RE ON OUR WAY, HOW WE GET THERE IDK, HOW WE GET THERE IDC, ALL I KNOW IS NOTTS ARE ON THEIR WAYYYYYYYYYYYY. Also I said that Salford were a really good team in my prediction like bruh they are sooo shit, like they did not show up wheyyyyyyyyyyy",
+      "highlights": [
+        "Jones wonderball to Jatta who puts it away clean",
+        "The Notts Ness Monster beautiful header",
+        "Always believe in.. Jodi Jones!"
+      ],
+      "talkingPoints": [
+        "Jodi Jones for Ballon d'or",
+        "Build Jodi Jones a statue",
+        "We're going to League One",
+        "When are Salford showing up?",
+        "Who tf are Salford"
+      ],
       "prediction": {
         "score": "2-1",
         "confidence": 20,
         "note": "I just hope win but Idk Salford is a really good team.",
-        "result": "pending"
+        "result": "close"
       },
-      "ratings": []
+      "ratings": [
+        {
+          "player": "James Belshaw",
+          "rating": 7,
+          "note": "Didn't have much to do",
+          "motm": false
+        },
+        {
+          "player": "Lucas Ness",
+          "rating": 8,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Rod McDonald",
+          "rating": 7.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jacob Bedeau",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Nick Tsaroulla",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Ollie Norburn",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Scott Robertson",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jodi Jones",
+          "rating": 10,
+          "note": "",
+          "motm": true
+        },
+        {
+          "player": "Tom Iorpenda",
+          "rating": 7.5,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Jayden Luker",
+          "rating": 7,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Alassana Jatta",
+          "rating": 8.6,
+          "note": "",
+          "motm": false
+        },
+        {
+          "player": "Conor Grant",
+          "rating": 7,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Matt Palmer",
+          "rating": 6.5,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Maz Kouhyar",
+          "rating": 6.5,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Lee Ndlovu",
+          "rating": 6.5,
+          "note": "Substitute",
+          "motm": false
+        },
+        {
+          "player": "Keanan Bennetts",
+          "rating": 6,
+          "note": "Substitute",
+          "motm": false
+        }
+      ]
     }
   ]
 }
